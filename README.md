@@ -1,1 +1,0 @@
-# astrovim-config
